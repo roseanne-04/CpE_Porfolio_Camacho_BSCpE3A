@@ -8,6 +8,10 @@ ROSE ANNE G. CAMACHO
 
 BSCpE3A
 
+## ABOUT ME 
+
+I am a Computer Engineering student who is passionate about technology and innovation. I study both hardware and software to develop useful and efficient computer systems.
+
 ## SKILL
 
 . BASIC CODING
@@ -19,4 +23,8 @@ BSCpE3A
 . SCHEMATIC 
 
 ## FEATURED PROJECT 
+
+## CONTACT EMAIL 
+
+camachoroseanne459@gmail.com
 
