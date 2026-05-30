@@ -10,7 +10,7 @@ BSCpE3A
 
 ## ABOUT ME 
 
-I am a Computer Engineering student who is passionate about technology and innovation. I study both hardware and software to develop useful and efficient computer systems.
+I am Rose Anne Camacho, a 20 year old student from San Vicente, Palawan. I am now a 3rd year Computer Engineering (BSCpE) student of Fullbright College located in Puerto Princesa City, Palawan. As a person, I can be described as hardworking and someone who is determined to work for her goals. I am a dedicated learner who loves to learn more about different technologies and acquire skills. Furthermore, I am also someone who enjoys working together with other people in tackling problems and taking up different challenges.
 
 ## SKILL
 
@@ -52,6 +52,7 @@ I am a Computer Engineering student who is passionate about technology and innov
 
 
 ## CONTACT EMAIL 
+camachoroseanne459@gmail.com
 
 camachoroseanne459@gmail.com
 
