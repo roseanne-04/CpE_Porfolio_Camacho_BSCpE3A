@@ -31,10 +31,25 @@ I am a Computer Engineering student who is passionate about technology and innov
 • Battery 
 • Speaker 
 • Connector 
+
 <img width="654" height="806" alt="image" src="https://github.com/user-attachments/assets/d8e0fb7c-0b08-44ce-8585-bc9cca99fa99" />
 
 
-# 2. 
+# 2. 2-to-4 decoder
+    A 2-to-4 decoder is a digital circuit that takes 2 input bits and produces 4 outputs, with only one output activated for each input combination
+# Components 
+•Resistor
+•LED lights
+•Switch 
+•2 NOT gates
+•4 AND gates
+•Jumper Wire
+•Breadboard
+•Power Supply
+
+<img width="2048" height="1536" alt="image" src="https://github.com/user-attachments/assets/4eefdfc4-5bf9-40bf-8a33-de6018f05eaf" />
+<img width="2048" height="1536" alt="image" src="https://github.com/user-attachments/assets/16121215-4a5b-483a-9f88-70094f24f97c" />
+
 
 ## CONTACT EMAIL 
 
