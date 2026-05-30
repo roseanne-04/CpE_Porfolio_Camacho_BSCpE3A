@@ -31,7 +31,8 @@ I am a Computer Engineering student who is passionate about technology and innov
 • Battery 
 • Speaker 
 • Connector 
-<img width="960" height="1280" alt="1000045561" src="https://github.com/user-attachments/assets/b91c698a-e678-475a-b215-6dad1a0fab09" />
+<img width="654" height="806" alt="image" src="https://github.com/user-attachments/assets/d8e0fb7c-0b08-44ce-8585-bc9cca99fa99" />
+
 
 # 2. 
 
