@@ -26,10 +26,15 @@ I am Rose Anne Camacho, a 20 year old student from San Vicente, Palawan. I am no
 # 1. Mini Amplifier 
     This mini amp in an audio component that can boost the the volume of sound emitted devices like a phone, laptop, or music player. Th debice has a small speaker encased within a casing. This makes it portable and esy to handle. Even though it is small, the mini amplifier is able to provide amplified sound.
 # Components 
+
 • Capacitor 
+
 • Resistor 
+
 • Battery 
+
 • Speaker 
+
 • Connector 
 
 <img width="654" height="806" alt="image" src="https://github.com/user-attachments/assets/d8e0fb7c-0b08-44ce-8585-bc9cca99fa99" />
@@ -38,13 +43,21 @@ I am Rose Anne Camacho, a 20 year old student from San Vicente, Palawan. I am no
 # 2. 2-to-4 decoder
     A 2-to-4 decoder is a digital circuit that takes 2 input bits and produces 4 outputs, with only one output activated for each input combination
 # Components 
+
 •Resistor
+
 •LED lights
+
 •Switch 
+
 •2 NOT gates
+
 •4 AND gates
+
 •Jumper Wire
+
 •Breadboard
+
 •Power Supply
 
 <img width="2048" height="1536" alt="image" src="https://github.com/user-attachments/assets/4eefdfc4-5bf9-40bf-8a33-de6018f05eaf" />
@@ -54,5 +67,4 @@ I am Rose Anne Camacho, a 20 year old student from San Vicente, Palawan. I am no
 ## CONTACT EMAIL 
 camachoroseanne459@gmail.com
 
-camachoroseanne459@gmail.com
 
