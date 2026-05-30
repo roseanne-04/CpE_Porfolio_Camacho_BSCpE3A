@@ -63,6 +63,14 @@ I am Rose Anne Camacho, a 20 year old student from San Vicente, Palawan. I am no
 <img width="2048" height="1536" alt="image" src="https://github.com/user-attachments/assets/4eefdfc4-5bf9-40bf-8a33-de6018f05eaf" />
 <img width="2048" height="1536" alt="image" src="https://github.com/user-attachments/assets/16121215-4a5b-483a-9f88-70094f24f97c" />
 
+# 3. AND-OR logic circuit
+This circuit is an AND-OR logic circuit composed of two SN7408 AND gates and one SN7432 OR gate using TINA. 
+It accepts three input signals through switches and processes them according to a Boolean logic expression. 
+The output is displayed by an LED, which turns ON when the required input conditions are met. 
+This circuit demonstrates the basic operation of digital logic gates in electronic systems.
+<img width="739" height="322" alt="image" src="https://github.com/user-attachments/assets/f3f7b5a8-e560-4e9f-9c0e-b73abb8479f0" />
+
+
 
 ## CONTACT EMAIL 
 camachoroseanne459@gmail.com
